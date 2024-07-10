@@ -14,7 +14,7 @@ body{
     margin: 0px auto;
     background-image: url(../assets/Hero-bg.png);
     display: flex;
-    width: 1440px;
+    width: 1536px;
     height: 652px;
     margin-left: 0px;
     margin-right: 0px;
@@ -300,7 +300,7 @@ margin-bottom: 24px;
     line-height: 26px;
 }
 
-.footer-container{
+.footer-size{
     width: 1140px;
     height: 314px;
     /* margin-left: 150px;
