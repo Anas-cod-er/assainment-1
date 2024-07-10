@@ -47,3 +47,21 @@ body{
     margin-left: 294px;
     color: #0D1321;
 }
+
+/* button style  */
+
+
+.btn-primary{
+    width: 208px;
+    height: 66px;
+    background-color: #0D1321;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 21px 24px 21px 24px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 44px;
+}
