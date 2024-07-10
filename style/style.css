@@ -161,6 +161,110 @@ body{
     align-items: flex-end;
 }
 
+/* video  */
+.video-section{
+    width: 1140px;
+    height: 777px;
+    left: 148px;
+    right: 152px;
+    top: 2340px;
+    bottom: 2128px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 0px;
+    /* border: 2px solid red; */
+}
+
+.video-heading{
+    width: 852px;
+    height: 115px;
+    margin-top: 88px;
+    text-align: center;
+    /* border: 2px solid red; */
+}
+.video-heading h2 {
+    margin-bottom: 24px ;
+}
+
+.video-heading p {
+    width: 852px;
+    height: 52px;
+    margin-right: 144px;
+    margin-left: 1px;
+    /* border: 2px solid red; */
+}
+
+.video{
+    /* border: 2px solid red; */
+    margin-top: 80px;
+    width: 1076px;
+    height: 550px;
+}
+
+/* skill */
+
+.skill-container{
+    text-align: left;
+    display: flex;
+    gap: 24px;
+}
+
+.skill-html{
+    background-color: #FF4C1E0D;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.skill-css{
+    background-color: #004CE80D;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.skill-java{
+    background-color: #FFDF000D;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+/* target style  */
+
+.target{
+    width: 1140px;
+    height: 870px;
+    margin-top: 111px;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 0px;
+}
+
+.target-skill{
+    display: flex;
+    flex-direction: row;
+}
+
+.target-headline h3{
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
+
+.target-headline p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.target-skill{
+    width: 1140px;
+    height: 220px;
+    border: 2px solid red;
+}
+
+
 
 
 
