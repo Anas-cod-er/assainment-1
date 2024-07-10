@@ -241,11 +241,6 @@ body{
     padding: 0px;
 }
 
-.target-skill{
-    display: flex;
-    flex-direction: row;
-}
-
 .target-headline h3{
     font-size: 32px;
     font-weight: 800;
@@ -261,7 +256,39 @@ body{
 .target-skill{
     width: 1140px;
     height: 220px;
-    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 16px;
+    margin-top: 24px;
+}
+
+.pic-txt{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+}
+
+.skill-discription{
+    text-align: start;
+    width: 1060px;
+    height: 140px;
+    margin-left: 30px;
+}
+
+.skill-discription h3{
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+
+.skill-discription p{
+    margin-top: 8px;
+    margin-bottom: 24px ;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
 }
 
 
